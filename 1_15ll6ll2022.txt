@@ -1,0 +1,3 @@
+****
+Ticket_ID:6348
+		->RECORD_DELETED

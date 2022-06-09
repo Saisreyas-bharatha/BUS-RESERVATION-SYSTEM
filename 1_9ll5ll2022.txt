@@ -1,0 +1,27 @@
+
+****
+Ticket_ID:1260
+Name_of_the_passenger: pnky
+Age:24
+Phone_number:7093535368
+Seat_number:28
+Bus_ID:1
+****
+
+****
+Ticket_ID:1544
+Name_of_the_passenger: malik
+Age:54
+Phone_number:9963137969
+Seat_number:2
+Bus_ID:1
+****
+
+****
+Ticket_ID:1629
+Name_of_the_passenger: kvtha
+Age:49
+Phone_number:9390115102
+Seat_number:9
+Bus_ID:1
+****
